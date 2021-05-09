@@ -1,2 +1,2 @@
 # Portfolio
- This repository contains my online portfolio or resume.
+ This repository contains my online portfolio and resume.
